@@ -1,0 +1,20 @@
+Day 12/120 – I Finally Completed the Excel Sales Dashboard 💙
+
+Today, I completed the guided Excel Sales Performance Dashboard by Mr. Daniel.
+
+It wasn’t smooth.
+
+I ran into multiple DAX errors especially while creating the location summary measure.
+The map didn’t cooperate.
+Some Excel features weren’t available in my version.
+
+But I kept debugging...
+
+Key  Insights :
+•  Top 5 states account for over 52% of total revenue.
+• The Consumer segment generates the highest revenue contribution.
+•  Office Supplies and Technology dominate overall sales.
+• Sales peak toward Q4, indicating strong year-end performance trends.
+•  Average discount remains moderate, but needs monitoring against profit margins.
+
+The dashboard is fully interactive, with slicers for Year, Category, Ship Mode, and Delivery status allowing users to dynamically explore performance across different dimensions.
