@@ -1,0 +1,21 @@
+I spent today inside Power Pivot creating measures, building pivot tables, and most importantly, creating a relationship between the two sheets in my dataset.
+
+At first, it didn’t feel dramatic.
+But when I connected the Phone_Sales (Fact Table) to 
+Date_Phones (Dimension Table) everything started responding properly to Year and Month filters…
+
+I created measures like:
+Total Revenue
+Total Profit
+Profit Margin %
+Revenue PY
+YoY Growth %
+
+And honestly?
+Today, there were moments I second guessed myself.
+Moments where I clicked the wrong “Show Values As” option.
+Moments where I had to slow down and really understand what Excel was doing.
+
+Visuals are the surface.
+The data model is the foundation.
+And I’m learning to build both.
