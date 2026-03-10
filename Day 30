@@ -1,0 +1,27 @@
+Day 30 of my 120-day Data Analytics challenge
+
+The goal is simple but powerful:
+Use data to understand what might influence the success or failure of a crowdfunding campaign.
+
+Today I continued working on my SQL project analyzing Kickstarter campaigns, stepping further into the role of a data analyst.
+
+Some of the things I worked on included:
+• Exploring the dataset using SQL queries
+• Filtering projects by category and performance
+• Calculating funding percentages
+• Using CASE statements to classify campaign funding levels
+
+Key Insights from the Analysis
+
+ i) Many failed campaigns were concentrated in categories such as Film & Video, Music, Food, Design, Publishing, and Crafts. 
+
+ii) Projects with strong backer support and higher pledged amounts were more likely to succeed.
+
+ iii) Several projects achieved less than 50% of their funding goal, especially in categories like Art, Games, Crafts, Music, Film & Video, Design, and Technology. 
+
+iv) Using conditional logic helped categorize campaigns into Fully Funded, Nearly Funded, and Not Nearly Funded, making it easier to evaluate campaign performance. 
+
+
+This project helped me practice how analysts turn raw data into insights that inform business decisions.
+
+I’m excited to keep building my SQL skills and continue pushing forward toward Day 120. 🚀
