@@ -1,0 +1,27 @@
+Day 32/120 — I learned that data analysis doesn’t start with data.
+
+It actually starts with a business question.
+
+
+Today’s lesson was about Business Demand and Business Requests. Before analysts build dashboards or write SQL queries, they first need to understand what the business is trying to solve.
+
+When the request was broken down into user stories, it became clearer what the business needed:
+
+i) To track overall sales performance.
+ii) A dashboard to track internet sales performance.
+iii) To see which customers buy the most.
+iv) They also want to know which products sell the most.
+
+ The next step is designing the data structure...
+
+That’s where I was introduced to Fact Tables and Dimension Tables.
+
+Fact tables store measurable values like sales or revenue.
+
+Dimension tables store descriptive details like customers, products, and dates.
+
+In simple terms:
+Facts : the numbers
+Dimensions : the context behind the numbers
+
+I’m excited to keep building my SQL skills and continue pushing forward toward Day 120. 🚀
