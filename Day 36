@@ -1,0 +1,31 @@
+Day 36/120 of my data analytics journey
+
+A few days ago, I was stuck.
+
+My KPI wouldn’t show.
+My data model wasn’t making sense.
+
+Fast forward to today…
+
+I’ve completed the guided Power BI & SQL project, and here’s what the data revealed:
+
+📌 Sales exceeded budget by $1M+
+📌 Revenue is highly concentrated among top customers
+📌 A few top products dominate sales, showing clear winners
+📌 Sales steadily increased across the months, peaking toward year-end.
+
+ Here are 3 key things I learned:
+i) Data modeling is everything
+If your relationships are wrong, your dashboard will confuse you
+
+ii) SQL makes Power BI easier
+Cleaning and structuring data upfront saves hours later
+
+iii) Dashboards should tell a story, not just show numbers
+Sales vs Budget, Customers, Products everything must connect.
+
+This project pushed me, frustrated me, and taught me a lot.
+But seeing the final dashboard…Totally worth it.
+
+Link to the dashboard: https://app.powerbi.com/links/PexLjXk0bH?ctid=291e065d-caae-4148-8844-2698b3fad79b&pbi_source=linkShare
+
