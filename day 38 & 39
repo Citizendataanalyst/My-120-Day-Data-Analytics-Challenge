@@ -1,0 +1,37 @@
+Day 38 & 39 with 
+
+I just wrapped up Case Study 1: Danny’s Diner from the 8 Week SQL Challenge and this posed unique challenges, testing my ability to apply SQL concepts to real-world scenarios. 
+
+The aim of this analysis was to help Danny generate deeper insights for his restaurant. This case study focuses on using  his customers data, especially their visiting patterns, how much money they’ve spent and also which menu items are their favorite, to build stronger customer relationships and ultimately grow his business.  
+
+There were 3 key datasets for this case study:
+sales
+menu
+members
+
+Key Insights💡: 
+i) Customer Visit Patterns:  Analyzed the table to see how often each customer places orders. And also, the dates to understand the distribution of orders throughout the month (January in this case)
+
+ii) Customer Spending Habits: The total amount spent by each customer throughout the period. This will identify Danny's biggest spenders.
+
+iii) Menu Performance: Analyzed the frequency of each product's appearance to identify the most popular items.
+
+
+Recommendations
+Based on the analysis:
+📌Introduce targeted promotions for high-value customers.
+📌Promote top-selling items with combo deals.
+📌Encourage earlier membership sign-ups to capture more customer value.
+📌Offer incentives during the first week of joining to boost engagement.
+
+Tool Used
+ Microsoft SQL Server
+
+ Learnings✍️:
+- Aggregate functions
+- Window Functions
+- Joins 
+- Common table expressions(CTE's) and subqueries
+
+A huge shoutout to Danny Ma for such wonderful #SQL challenges. It surely leveled up my SQL skills. 
+Challenge Link : https://8weeksqlchallenge.com/case-study-1/
