@@ -1,0 +1,54 @@
+Day 50 & 51 of my 120-Day Data Analytics Challenge 
+
+Case Study 5 (Data Mart) was a fun one… but also a real test of analytical thinking.
+
+The company rolled out eco-friendly packaging in June 2020, and the big question was simple:
+
+Did it help, hurt, or just confuse the sales numbers?
+
+To answer that, I dug into the dataset to:
+• Clean and prepare the data for analysis
+• Compare trends before vs after the packaging change (12-week window)
+• Break performance down by region, platform, and customer segments
+• Identify where things actually shifted
+
+Key Findings:
+
+📈 Segments that performed well
+• Families (Demographic): stronger post change sales contribution
+• Middle Aged customers:  stable and resilient
+• Retail platform:  continued to dominate overall performance
+
+📉 Segments that struggled
+• Couples (Demographic):  noticeable decline in sales
+• Young Adults:  weaker engagement after the switch
+• Shopify platform:  lagged behind Retail in growth
+
+What this means:
+The sustainable packaging change may have aligned well with family-oriented and practical buyers,
+but didn’t resonate as strongly with younger or couple-based segments.
+
+ Recommendations for Danny’s Team
+
+1. Segment-Specific Messaging
+• Emphasize sustainability benefits for Families
+• Reframe value (price, convenience, lifestyle) for Young Adults & Couples
+
+2. Improve Shopify Experience
+• Review UX, pricing visibility, and checkout flow
+• Clearly communicate the value of the packaging change online
+
+3. Build a Customer Feedback Loop
+• Gather feedback from underperforming segments
+
+4. Test Before Full Rollout
+• Measure impact across segments before scaling future changes
+
+Looking at total sales alone would have hidden all of this.
+
+But breaking it down revealed something powerful
+
+Link to the Challenge: https://8weeksqlchallenge.com/case-study-5/
+
+#120DaysOfDataWithTina #DataAnalytics #SQL
+#DataAnalyticsLockedIn
